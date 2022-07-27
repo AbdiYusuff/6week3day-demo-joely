@@ -1,0 +1,17 @@
+{
+  "name": "deployment-demo",
+  "version": "1.0.0",
+  "description": "This is a completed version of the Deployment demo. Use this for all your referencing needs!",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
